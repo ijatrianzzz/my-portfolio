@@ -1,0 +1,2 @@
+export default `body{margin:0;font-family:Arial,sans-serif;background:#0f172a;color:#fff}section{padding:80px 20px;text-align:center}.navbar{display:flex;justify-content:space-between;padding:20px 50px;background:#111827}.navbar ul{display:flex;list-style:none;gap:20px}.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center}button{margin-top:20px;padding:10px 20px;background:#38bdf8;border:none;border-radius:8px}
+`;
